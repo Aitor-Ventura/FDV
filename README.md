@@ -18,4 +18,4 @@ Práctica 2: [Subir ficheros a Perforce](https://github.com/Aitor-Ventura/FDV_P2
 
 Práctica 3: [Ejercicios sobre scripts](https://github.com/Aitor-Ventura/FDV_EjerciciosScripts)
 
-Práctica 4: [Ejercicios sobre events](https://github.com/Aitor-Ventura/FDV_Events)
+Práctica 4: [Ejercicios sobre eventos](https://github.com/Aitor-Ventura/FDV_Events)
