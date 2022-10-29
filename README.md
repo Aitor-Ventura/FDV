@@ -7,6 +7,8 @@ Exercise 2: [Uploading files to Perforce](https://github.com/Aitor-Ventura/FDV_P
 
 Exercise 3: [Exercises about scripts](https://github.com/Aitor-Ventura/FDV_EjerciciosScripts)
 
+Exercise 4: [Exercises about events](https://github.com/Aitor-Ventura/FDV_Events)
+
 ## 🤖 Fundamentos del Desarrollo de Videojuegos
 Repositorio encargado de guardar los proyectos que se desarrollarán a lo largo de la asignatura.
 
@@ -15,3 +17,5 @@ Práctica 1: [Entorno Unity 3D](https://github.com/Aitor-Ventura/FDV_P1)
 Práctica 2: [Subir ficheros a Perforce](https://github.com/Aitor-Ventura/FDV_P2)
 
 Práctica 3: [Ejercicios sobre scripts](https://github.com/Aitor-Ventura/FDV_EjerciciosScripts)
+
+Práctica 4: [Ejercicios sobre events](https://github.com/Aitor-Ventura/FDV_Events)
