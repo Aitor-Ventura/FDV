@@ -11,6 +11,8 @@ Exercise 4: [Exercises about events](https://github.com/Aitor-Ventura/FDV_Events
 
 Exercise 5: [Understanding waypoints](https://github.com/Aitor-Ventura/FDV_Waypoints)
 
+Exam 1: [Scripts and Events](https://github.com/Aitor-Ventura/FDV_Examen1)
+
 ## 🤖 Fundamentos del Desarrollo de Videojuegos
 Repositorio encargado de guardar los proyectos que se desarrollarán a lo largo de la asignatura.
 
@@ -23,3 +25,5 @@ Práctica 3: [Ejercicios sobre scripts](https://github.com/Aitor-Ventura/FDV_Eje
 Práctica 4: [Ejercicios sobre eventos](https://github.com/Aitor-Ventura/FDV_Events)
 
 Práctica 5: [Entendiendo waypoints](https://github.com/Aitor-Ventura/FDV_Waypoints)
+
+Examen 1: [Scripts y Eventos](https://github.com/Aitor-Ventura/FDV_Examen1)
