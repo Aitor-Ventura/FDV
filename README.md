@@ -13,6 +13,8 @@ Exercise 5: [Understanding waypoints](https://github.com/Aitor-Ventura/FDV_Waypo
 
 Exercise 6: [Exercises about sprites](https://github.com/Aitor-Ventura/FDV_Sprites)
 
+Exercise 7: [Exercises about tilemaps](https://github.com/Aitor-Ventura/FDV_Tilemaps)
+
 Exam 1: [Scripts and Events](https://github.com/Aitor-Ventura/FDV_Examen1)
 
 ## 🤖 Fundamentos del Desarrollo de Videojuegos
@@ -29,5 +31,7 @@ Práctica 4: [Ejercicios sobre eventos](https://github.com/Aitor-Ventura/FDV_Eve
 Práctica 5: [Entendiendo waypoints](https://github.com/Aitor-Ventura/FDV_Waypoints)
 
 Práctica 6: [Ejercicios sobre sprites](https://github.com/Aitor-Ventura/FDV_Sprites)
+
+Práctica 7: [Ejercicios sobre tilemaps](https://github.com/Aitor-Ventura/FDV_Tilemaps)
 
 Examen 1: [Scripts y Eventos](https://github.com/Aitor-Ventura/FDV_Examen1)
