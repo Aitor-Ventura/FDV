@@ -17,6 +17,8 @@ Exercise 7: [Exercises about tilemaps](https://github.com/Aitor-Ventura/FDV_Tile
 
 Exercise 8: [Exercises about cinemachine](https://github.com/Aitor-Ventura/FDV_Cinemachine)
 
+Exercise 9: [Exercises about techniques](https://github.com/Aitor-Ventura/FDV_Techniques)
+
 Exam 1: [Scripts and Events](https://github.com/Aitor-Ventura/FDV_Examen1)
 
 ## 🤖 Fundamentos del Desarrollo de Videojuegos
@@ -37,5 +39,7 @@ Práctica 6: [Ejercicios sobre sprites](https://github.com/Aitor-Ventura/FDV_Spr
 Práctica 7: [Ejercicios sobre tilemaps](https://github.com/Aitor-Ventura/FDV_Tilemaps)
 
 Práctica 8: [Ejercicios sobre cinemachine](https://github.com/Aitor-Ventura/FDV_Cinemachine)
+
+Práctica 9: [Ejercicios sobre técnicas](https://github.com/Aitor-Ventura/FDV_Techniques)
 
 Examen 1: [Scripts y Eventos](https://github.com/Aitor-Ventura/FDV_Examen1)
