@@ -21,6 +21,8 @@ Exercise 9: [Exercises about techniques](https://github.com/Aitor-Ventura/FDV_Te
 
 Exam 1: [Scripts and Events](https://github.com/Aitor-Ventura/FDV_Examen1)
 
+Game prototype: [Game Prototype](https://github.com/Aitor-Ventura/FDV_Prototype)
+
 ## 🤖 Fundamentos del Desarrollo de Videojuegos
 Repositorio encargado de guardar los proyectos que se desarrollarán a lo largo de la asignatura.
 
@@ -43,3 +45,5 @@ Práctica 8: [Ejercicios sobre cinemachine](https://github.com/Aitor-Ventura/FDV
 Práctica 9: [Ejercicios sobre técnicas](https://github.com/Aitor-Ventura/FDV_Techniques)
 
 Examen 1: [Scripts y Eventos](https://github.com/Aitor-Ventura/FDV_Examen1)
+
+Game prototype: [Game Prototype](https://github.com/Aitor-Ventura/FDV_Prototype)
